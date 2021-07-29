@@ -9,7 +9,7 @@
     text-align: center;
 }
 
-nav{
+.navigation{
     width:73%;
     padding:1%;
 }
@@ -38,4 +38,8 @@ footer ul{
     display: inline-block;
     vertical-align: top;
     padding:1em;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
